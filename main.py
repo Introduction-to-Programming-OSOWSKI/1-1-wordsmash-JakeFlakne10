@@ -1,1 +1,6 @@
-#WRITE YOUR CODE HERE
+wordSmash():
+    c = Cat
+    d = Dog
+    return(c,d)
+
+print(wordSmash())
